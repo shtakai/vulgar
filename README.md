@@ -2,7 +2,7 @@
 
 [![MEAN with NG2 and Webpack](https://cloud.githubusercontent.com/assets/10481547/13732046/5ba42ab0-e94f-11e5-9962-ab04cbd6779f.png)](http://www.davidniciforovic.com)
 
-# v#!g@r [![Join Slack](https://img.shields.io/badge/slack-join-brightgreen.svg)](http://www.davidniciforovic.com/wp-login.php?action=slack-invitation) [![Join the chat at https://gitter.im/datatypevoid/vulgar](https://badges.gitter.im/datatypevoid/vulgar.svg)](https://gitter.im/datatypevoid/vulgar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# v#!g@r [![Join Slack](https://img.shields.io/badge/slack-join-brightgreen.svg)](http://www.davidniciforovic.com/wp-login.php?action=slack-invitation) [![Join the chat at https://gitter.im/datatypevoid/vulgar](https://badges.gitter.im/datatypevoid/vulgar.svg)](https://gitter.im/datatypevoid/vulgar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/vulgar.svg)](https://www.guardrails.io)
 
 ## MEAN Stack Development Starter
 
